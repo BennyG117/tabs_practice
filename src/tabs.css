@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tab-box {
+    height: '50px';
+    width: '200px';
+    border: 3;
+    border: 'solid';
+    display: 'flex';
+    justify-content: 'center';
+    flex-direction: 'row';
+}
