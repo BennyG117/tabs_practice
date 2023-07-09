@@ -30,3 +30,12 @@ function App() {
 }
 
 export default App;
+// TODO: Dont write bugs
+
+// TODO: Download a CSS library. The option Im going to use is 'styled-components' / 'mui' : npm packages
+// TODO: why styled-components
+/**
+ * 1.
+ * 2.
+ * 3.
+ */

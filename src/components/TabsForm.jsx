@@ -37,14 +37,6 @@ export default TabsForm
 
 
 
-
-
-
-
-
-
-
-
 //! May require the following notes from LearnPlatform:
 // const MyComponent = props => {
 //     const onClickHandler = (e, value) => {
