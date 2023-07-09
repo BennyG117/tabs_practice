@@ -1,4 +1,7 @@
+//separation of concerns - functions, components, styles
 // import logo from './logo.svg';
+
+
 import './App.css';
 import TabsForm from './components/TabsForm';
 import Tab from './components/Tabs';
@@ -35,7 +38,8 @@ export default App;
 // TODO: Download a CSS library. The option Im going to use is 'styled-components' / 'mui' : npm packages
 // TODO: why styled-components
 /**
- * 1.
- * 2.
- * 3.
+ * 1.no overlapping class name
+ * 2.css style built in syntax 
+ * 3. & sign command to activate effects
+ * 4.auto complete text when typing (part of the vsCode styled components)
  */
